@@ -1,4 +1,10 @@
 # Chess Board 
+
+[![npm version](https://badge.fury.io/js/%40aistglobal%2Fchessboard.svg)](https://badge.fury.io/js/%40aistglobal%2Fchessboard)
+<a href="https://github.com/VaheSaroyan/chessboard/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/VaheSaroyan/chessboard"></a>
+<a href="https://github.com/VaheSaroyan/chessboard/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/VaheSaroyan/chessboard"></a>
+<a href="https://github.com/VaheSaroyan/chessboard/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/VaheSaroyan/chessboard"></a>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/dw/chessboard">
 ```
 Simple chess board used api from chess.js and chessboard.js include new
 functionality custom handling envents and custom promotion
