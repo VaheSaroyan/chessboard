@@ -10,6 +10,7 @@
     "javascript"
   ],
   "repository": {
+    "type": "git",
     "url": "https://github.com/VaheSaroyan/chessboard"
   },
   "files": [
