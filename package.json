@@ -9,7 +9,9 @@
     "chessboard.js",
     "javascript"
   ],
-
+  "repository": {
+    "url": "https://github.com/VaheSaroyan/chessboard"
+  },
   "files": [
     "dist/*.css",
     "dist/*.js"
